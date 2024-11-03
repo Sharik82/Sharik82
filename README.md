@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sharik82
+- 👀 I’m interested in web development and aiming to become a Full Stack Developer (back-end and front-end)!
+- 🌱 Currently diving deep into frameworks, libraries, and extensions that make web development even more exciting.
+- 💼 My goal is to work in a big tech company, where I can collaborate and learn from industry experts.
+- 📫 Reach me here if you’d like to connect or discuss web dev topics!
+- 😄 Gender: Male
+- ⚡ Fun fact: I enjoy exploring the latest tools that can speed up development and add creativity to projects!
